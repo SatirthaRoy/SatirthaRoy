@@ -33,6 +33,7 @@ Features:
 Technologies Used:
 Frontend: HTML, CSS, JAVASCRIPT, React js, Tailwind Css
 Backend: Node js, Express js, MongoDB
+[Live Link](https://health-heaven.web.app/)
 
 ### [Project 2: Touristopia](https://github.com/SatirthaRoy/touristopia-public)
 A website for Tour spot management. Users can add tour spots with image and
@@ -44,8 +45,10 @@ update and delete tour spots
 tour spots are saved in their profile.
 Technologies Used:
 ▪ React js ▪ Tailwind css ▪ Express js▪ MongoDB ▪ Firebase authentication
+[Live Link](https://touristopia-781cc.web.app/)
 
 ### [Project 3: Personal Portfolio](https://github.com/SatirthaRoy/MyPortfolio)
 A personal portfolio website showcasing my projects and skills, built with HTML, CSS, and JavaScript, highly interactive and used GSAP for animations.
+[Live Link](https://satirtha-roy.netlify.app/)
 
 
