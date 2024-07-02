@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Satirtha Roy, a Web developer with a passion for developing highly interactive and user friendly websites that makes an impact on the real world. I love working on projects that involve modern web technologies, responsive design, and seamless user experiences. My expertise includes front-end development with HTML, CSS, and JavaScript, as well as back-end development with Node js and Express js. I'm also proficient in using frameworks like React robust and scalable web solutions.
+Hi, I'm Satirtha Roy, a Web developer with a passion for developing highly interactive and user friendly websites that makes an impact on the real world. I love working on projects that involve modern web technologies, responsive design, and seamless user experiences. My expertise includes front-end development with HTML, CSS, and JavaScript, Tailwind CSS as well as back-end development with Node js and Express js. I'm also proficient in using frameworks like React to build robust and scalable web solutions.
 
 ## Languages Used
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
